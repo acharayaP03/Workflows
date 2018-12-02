@@ -1,4 +1,6 @@
-var fill;
+var $, fill;
+
+$ = require('jquery');
 
 (fill = function(item) {})('The most creative minds in Arts');
 
