@@ -4,6 +4,6 @@ $ = require('jquery');
 
 (fill = function(item) {})('Creative minds in Arts');
 
-$('.tagline').append(`${item}`);
+$('.tagline').append(`${'item'}`);
 
 fill;
